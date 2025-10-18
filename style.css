@@ -1,0 +1,29 @@
+.a{
+ width: 200px;
+ height: 200px;
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSolfQ0VyDwW3mc6xHVFWn01UBMDpSXPY0wpw&s);
+ border:1px solid rgb(12, 3, 3);
+ background-size:cover;
+ box-shadow: 0px 0px 7px 5px rgb(0, 0, 0);
+ transition: 1s;
+ margin: 0 auto;
+ border-radius: 30%;
+}
+
+
+.a:hover{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiu1AbmhtRvgdtUBozntESYpjm9WOftfKyXw&s);
+  border-radius: 50%;  
+}
+
+h1{
+  color: aqua;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+  color: blue;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
